@@ -6,7 +6,7 @@ allennlp
 spacy
 tqdm
 termcolor
-pandas=
+pandas
 fairseq
 colorama
 scipy
