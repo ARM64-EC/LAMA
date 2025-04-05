@@ -1,4 +1,4 @@
-Cython==0.29.2
+cython
 numpy==1.15.1
 torch==1.0.1
 pytorch-pretrained-bert==0.6.1
